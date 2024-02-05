@@ -1,0 +1,12 @@
+npm i bcrypt 
+O que faz esta biblioteca
+
+npm i dotenv
+
+npm i express
+
+npm i jsonwebtoken -> Cria token pro usuário, como verifica se o token é válido
+
+npm i mongoose
+
+npm i nodemon -D
